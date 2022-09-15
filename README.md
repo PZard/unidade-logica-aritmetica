@@ -26,7 +26,7 @@ Foram adicionados também uma porta AND, uma porta OR e duas portas XOR.
 
 <img src="/img/Componentes Combinacionais Básicos.png"><img>
 
-Em seguida começamos a montar nossa Unidade Lógica Aritmética ligando os componentes combinacionais básicos ao multiplexador e ao somador completo. Também foi adicionado um clock. 
+Em seguida começamos a montar nossa Unidade Lógica Aritmética ligando os componentes combinacionais básicos ao multiplexador e ao somador completo. Também foi adicionado um clock e um flip-flop para a propagação de carry. 
 
 <img src="/img/Adição de Multiplexador, Full Adder e Flip Flop tipo D.png"><img>
 
